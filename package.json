@@ -1,0 +1,17 @@
+{
+  "name": "theneo-sdk-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@theneo/sdk": "^0.6.0",
+    "node": "^21.2.0"
+  }
+}
